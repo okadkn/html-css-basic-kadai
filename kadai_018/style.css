@@ -15,7 +15,7 @@
 #middle{
     width: 800px;
     height: 800px;
-    padding: 20px;
+    margin: 20px;
     text-align: center;
     background-color: #ffd9df;
     position: relative;
@@ -63,7 +63,7 @@
     width: 400px;
     height: 100px;
     background-color: #e5dcf0;
-    
+    position: relative;
 }
 
 #bottom-child02{
