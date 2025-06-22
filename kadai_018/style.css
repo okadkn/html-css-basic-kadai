@@ -15,10 +15,11 @@
 #middle{
     width: 800px;
     height: 800px;
-    margin: 20px;
-    text-align: center;
+    margin: 20px auto;
     background-color: #ffd9df;
     position: relative;
+    text-align: center;
+   
 }
 
 #middle-child01{
